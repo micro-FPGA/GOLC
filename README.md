@@ -9,7 +9,7 @@ Contest Categories:
 
 
 
-
+GOLC is dedicated to the memorry of my mother Kristel Lukats, the Gran Old Lady of Estonian photography.
 
 
 
