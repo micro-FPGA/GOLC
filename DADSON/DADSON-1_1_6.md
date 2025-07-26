@@ -8,12 +8,13 @@ https://github.com/AnttiLukats/Antti-Bible/tree/main/extras/FPGA/DadSon
 
 The board was targeted to be low cost, with an easy-to-use extension connector and some peripherals:
 * HDMI
-* 4x USB Host
+* 2x USB Host
 * 1G Ethernet
-* micro-SD Card slot
+* USB UART/JTAG
 
 Other features would be
 * CPU Dual core ARM A9 (inside AMD SoC)
 * DDR3 16-bit DDR memory
 * Linux-capable system
+* VG-96 style extension connector for own peripherals and devices
 
