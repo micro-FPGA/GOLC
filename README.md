@@ -12,5 +12,7 @@ Contest Categories:
 GOLC is dedicated to the memorry of my mother Kristel Lukats, the Grand Old Lady 
 of Estonian photography.
 
+https://kultuur.postimees.ee/4256161/lahkus-eesti-foto-grand-old-lady
+In memorian, in estonian language.
 
 
