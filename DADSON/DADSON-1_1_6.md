@@ -13,7 +13,7 @@ The board was targeted to be low cost, with an easy-to-use extension connector a
 * micro-SD Card slot
 
 Other features would be
-* CPU Dual core ARM A9
+* CPU Dual core ARM A9 (inside AMD SoC)
 * DDR3 16-bit DDR memory
-* Linux capable system
+* Linux-capable system
 
