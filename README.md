@@ -1,4 +1,3 @@
-AGU
 GOLC Grand Old Ladys Contest
 
 Contest Categories:
