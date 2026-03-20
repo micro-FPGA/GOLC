@@ -29,6 +29,6 @@ In memorian, in estonian language.
 ### 🔗 Related Works
 - [Antti Bible — User Manual](https://github.com/AnttiLukats/Antti-Bible)  
 - [FPGA Bible](https://github.com/micro-FPGA/FPGA-Bible)  
-- [One Hour Bible](#)  
+- [One Hour Bible](https://github.com/micro-FPGA/GOLC/tree/main/Creative/OneHourBible/1)  
 - [ANIVERSITY](https://github.com/micro-FPGA/Aniversity)
 
