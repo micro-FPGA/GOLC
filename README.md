@@ -18,11 +18,15 @@ Contest Categories:
 * Creative for anything else creative
 
 ---
+🕊️ Dedication  
 
-GOLC is dedicated to the memorry of my mother Kristel Lukats, the Grand Old Lady 
-of Estonian photography.
-https://kultuur.postimees.ee/4256161/lahkus-eesti-foto-grand-old-lady
-In memorian, in estonian language.
+GOLC — Grand Old Lady’s Contest is dedicated to the memory of Kristel Lukats (1940 – 2017), known in Estonia as the Grand Old Lady of Photography. Her life’s work preserved light — both literal and human — through an era of immense change [in Estonian](https://kultuur.postimees.ee/4256161/lahkus-eesti-foto-grand-old-lady
+kultuur.postimees.ee).  
+
+This contest carries her spirit forward: curiosity, patience, and creative generosity.  
+Each participant who contributes art, invention, or insight keeps that light alive in a new medium — from the darkroom to the digital cosmos.  
+
+> “Light is older than cameras. Creativity is older than tools. Keep both alive.” — A tribute to Kristel Lukats  
 
 ---
 
