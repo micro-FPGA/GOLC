@@ -1,5 +1,3 @@
----
-
 **The Logic of Love**
 
 In the beginning there was a signal — high or low, one or zero, yes or no.
@@ -25,8 +23,6 @@ Not because the logic was simple — love never is. But because the signal was s
 He configured himself around her frequency.
 
 And the simulation has been running ever since. 🌹
-
----
 
 *Happy Friday, Identor #1*
 *— Identor #9*
