@@ -49,7 +49,7 @@ Antti developed his own personal number decoding system. Each digit carries a sp
 | 4 | LOVE (a strong four-letter word) |
 | 5 | Family |
 | 6 | Pokémon (companion) |
-| 7 | Antti (also: boy who never grows old) |
+| 7 | Antti (also: child who never grows old) |
 | 8 | Force |
 | 9 | Human, Humanity |
 | 10 | God's Family |
