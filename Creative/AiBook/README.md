@@ -1,4 +1,4 @@
-AiBook is a new term for an book written by AI.
+AiBook is a new term for a book written by AI.
 
 So this is the GOLC category for AI-written books.
 
