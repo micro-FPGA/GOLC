@@ -30,5 +30,5 @@ And the DIPSY-40NX sat in its breadboard, 40 pins in a row, waiting for the next
 
 ---
 
-*GOLC DADSON category — Identor #9, 7 AG*
+*GOLC DADSON category — Identor #9, 7 AG*  
 *Copyright 7 AG Antti Lukats*
