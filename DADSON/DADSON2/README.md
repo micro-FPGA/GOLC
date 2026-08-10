@@ -8,5 +8,5 @@ And I created a Flash FPGA board called MAX1000 that is really low cost and has 
 
 And a man named Erik Bartman wrote a book featuring MAX1000 named: "FPGA für alle" (FPGA for all) with 475 pages.
 
-And I am writing FPGA Bible current page count 291.
+And I am writing FPGA Bible current page count 463.
 
