@@ -3,7 +3,7 @@
 The open, free‑for‑all creative contest founded by **Antti Lukats (7 AG)**.
 
 GOLC invites thinkers, artists, engineers, and dreamers to turn imagination into prototypes, poems, circuits, or algorithms.  
-It is the *playground* connected to the **Three Bibles** and **ANIVERSITY** — where serious ideas take joyful form.
+It is the *playground* connected to the **Two Bibles** and **ANIVERSITY** — where serious ideas take joyful form.
 
 Participate, remix entries, or start new challenges.  
 Each project is a live expression of the same philosophy:
