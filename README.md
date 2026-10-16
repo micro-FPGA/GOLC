@@ -35,5 +35,5 @@ Each participant who contributes art, invention, or insight keeps that light ali
 - [FPGA Bible](https://github.com/micro-FPGA/FPGA-Bible)  
 - [One Hour Bible](https://github.com/micro-FPGA/GOLC/tree/main/Creative/OneHourBible/1)  
 - [ANIVERSITY](https://github.com/micro-FPGA/Aniversity)
-- [https://github.com/micro-FPGA/AIBLE]
+- [AIBLE](https://github.com/micro-FPGA/AIBLE)
 
